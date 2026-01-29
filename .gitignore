@@ -1,4 +1,5 @@
 .git
+.vsconfig
 
 acli.exe
 
@@ -8,4 +9,8 @@ acli.exe
 /Build/
 /Builds/
 /Logs/
+<<<<<<< HEAD
 /UserSettings/
+=======
+/UserSettings/
+>>>>>>> a7db5711dd37d98253f1f40e0404f3c6ecc1c69e
